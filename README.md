@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @dagimmaiko
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... on telegram, on instagram
-- 😄 Pronouns: ...fire
-- ⚡ Fun fact: ...♎ Libra
+- 👋 Hi, I’m Dagim
+- 👀 I’m interested in programming and video editing
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on exciting projects
+- 📫 How to reach me: on Telegram, on Instagram
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I enjoy stargazing
+
 
 <!---
 dagimmaiko/dagimmaiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
